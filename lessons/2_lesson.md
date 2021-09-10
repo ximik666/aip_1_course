@@ -10,5 +10,5 @@
 
 [Классификация языков программирования - интерактивная карта](https://cdn3.mindmeister.com/ru/129081511/_?fullscreen=1)
 
-[Лекция 2 Языки программирования 10.09.2021](https://github.com/ximik666/aip_1_course/blob/main/lessons/Lesson_2/Языки программирования_през.pdf)
+[Презентация](https://github.com/ximik666/aip_1_course/blob/main/lessons/Lesson_2/Языки программирования_през.pdf)
 
