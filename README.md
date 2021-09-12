@@ -17,7 +17,7 @@
 
 Практика
 
-1. [Практика 1](./practices/1_practice.md)
+1. [Практика 1](./practices/1_practice.md) (13-20.09.2021)
 
 
 

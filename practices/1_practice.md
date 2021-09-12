@@ -1,4 +1,4 @@
-# Практика 1
+# Практика 1 
 ### Выполнять задания необходмо по порядку
 1. [Основы Jupyter](./1_practice/intro-jupyter.ipynb)
 2. [Переменные в Python](./1_practice/intro-variables.ipynb)
