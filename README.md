@@ -32,10 +32,10 @@
 
 Контрольная работа
 
-1. [Контрольная работа 1](./kr/kr.ipynb)
-2. [Контрольная работа 2](./kr_2/kr_2.ipynb)
+1. [Контрольная работа 1](https://github.com/ximik666/aip_1_course/blob/main/practices/kr/kr.ipynb)
+2. [Контрольная работа 2](https://github.com/ximik666/aip_1_course/blob/main/practices/kr_2/kr_2.ipynb)
 
 Семестровая задача
 
-1. [Семестровая задача](./semestr&#32;tasks/semester1.md)
+1. [Семестровая задача](https://github.com/ximik666/aip_1_course/blob/main/semester%20tasks/semester1.md)
 
