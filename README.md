@@ -17,6 +17,7 @@
 2. [Лекция 5. Строки](./lessons/5_lesson.md) (1.10.2021)
 2. [Лекция 6. Списки и функции](./lessons/6_lesson.md) (15.10.2021)
 2. [Лекция 7. Работа с файлами](./lessons/7_lesson.md) (29.10.2021)
+2. [Лекция 8. Работа с множествами](./lessons/8_lesson.md) (12.11.2021)
 ------
 
 Практика
@@ -28,4 +29,13 @@
 2. [Практика 4](https://github.com/ximik666/aip_1_course/blob/main/practices/4_practice/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.ipynb) (18-25.10.2021)
 3. [Практика 5](https://github.com/ximik666/aip_1_course/blob/main/practices/4_practice/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.ipynb) (18-25.10.2021)
 ------
+
+Контрольная работа
+
+1. [Контрольная работа 1](./kr/kr.ipynb)
+2. [Контрольная работа 2](./kr_2/kr_2.ipynb)
+
+Семестровая задача
+
+1. [Семестровая задача](./semestr tasks/semester1.md)
 
