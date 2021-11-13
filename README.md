@@ -37,5 +37,5 @@
 
 Семестровая задача
 
-1. [Семестровая задача](./semestr tasks/semester1.md)
+1. [Семестровая задача](./semestr&#32;tasks/semester1.md)
 
