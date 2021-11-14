@@ -28,6 +28,7 @@
 2. [К.р.](https://github.com/ximik666/aip_1_course/blob/main/practices/kr/kr.ipynb) (11-18.10.2021)
 2. [Практика 4](https://github.com/ximik666/aip_1_course/blob/main/practices/4_practice/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.ipynb) (18-25.10.2021)
 3. [Практика 5](https://github.com/ximik666/aip_1_course/blob/main/practices/4_practice/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.ipynb) (18-25.10.2021)
+4. [Практика 6](https://github.com/ximik666/aip_1_course/blob/main/practices/6_practice/practice.ipynb) (15-22.11.2021)
 ------
 
 Контрольная работа
