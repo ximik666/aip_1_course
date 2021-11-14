@@ -38,5 +38,5 @@
 
 Семестровая задача
 
-1. [Семестровая задача](https://github.com/ximik666/aip_1_course/blob/main/semester%20tasks/semester1.md)
+1. [Семестровая задача](https://github.com/ximik666/aip_1_course/blob/main/semestr%20tasks/semester1.md)
 
