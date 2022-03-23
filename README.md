@@ -10,7 +10,7 @@ __Для получения зачета необходимо выполнить
 1. [Лекция 1 -  Поиск элементов в массиве](https://github.com/ximik666/aip_1_course/tree/main/2_semestr/lessons/lesson_1)
 2. [Лекция 2 - Алгоритмы сортировки](https://github.com/ximik666/aip_1_course/tree/main/2_semestr/lessons/lesson_2)
 3. [Лекция 3 - Стеки и очереди в Python](https://github.com/ximik666/aip_1_course/tree/main/2_semestr/lessons/lesson_3)
-
+3. [Лекция 4 - Основы функционального программирования](https://ru.wikibooks.org/wiki/Python/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_Python)
 ### Практические работы на занятиях
 1. [Практика 1](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/1.ipynb)
 2. [Практика 2](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/2.ipynb)
@@ -18,6 +18,7 @@ __Для получения зачета необходимо выполнить
 4. [Практика 4](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/4.ipynb)
 5. [Практика 5](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/5.ipynb)
 6. [Практика 6](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/6.ipynb)
+7. [Практика 6](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/7.ipynb)
 
 ### `Итоговая семестровая задача`
 #### Требования к семестровой задачи
