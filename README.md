@@ -24,9 +24,9 @@
 1. [Практика 1](./1_semestr/practices/1_practice.md) (13-20.09.2021)
 2. [Практика 2](./1_semestr/practices/2_practice.md) (04-11.09.2021)
 2. [Практика 3](./1_semestr/practices/3_practice/Практика.ipynb) (11-18.09.2021)
-2. [К.р.](https://github.com/ximik666/aip_1_course/blob/main/practices/kr/kr.ipynb) (11-18.10.2021)
+2. [К.р.](https://github.com/ximik666/aip_1_course/blob/main/1_semestr/practices/kr/kr.ipynb) (11-18.10.2021)
 2. [Практика 4](https://github.com/ximik666/aip_1_course/blob/main/1_semestr/practices/4_practice/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.ipynb) (18-25.10.2021)
-3. [Практика 5](https://github.com/ximik666/aip_1_course/blob/main/1_semestr/practices/4_practice/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.ipynb) (18-25.10.2021)
+3. [Практика 5](https://github.com/ximik666/aip_1_course/blob/main/1_semestr/practices/5_practice) (18-25.10.2021)
 4. [Практика 6](https://github.com/ximik666/aip_1_course/blob/main/1_semestr/practices/6_practice/practice.ipynb) (15-22.11.2021)
 ------
 
