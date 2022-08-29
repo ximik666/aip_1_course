@@ -21,8 +21,7 @@
 ------
 
 Практика
-
-1. [Практика 1](./practices/1_practice.md) (13-20.09.2021)
+1. [Практика 1](./1_semestr/practices/1_practice.md) (13-20.09.2021)
 2. [Практика 2](./practices/2_practice.md) (04-11.09.2021)
 2. [Практика 3](./practices/3_practice/Практика.ipynb) (11-18.09.2021)
 2. [К.р.](https://github.com/ximik666/aip_1_course/blob/main/practices/kr/kr.ipynb) (11-18.10.2021)
