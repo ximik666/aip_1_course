@@ -1,3 +1,14 @@
+list = [float(input('Введите первую действительную часть = ')),float(input('Введите первую мнимую часть = ')),float(input('Введите вторую действительную часть = ')),float(input('Введите вторую мнимую часть = '))]
+i = (-1)**0.5
+a = list[0]
+b = list[1]
+c = list[2]
+d = list[3]
+summa = [a+c, b+d]
+raznost = [a-c, b-d]
+multi = [(a*c)-(b*d), a*d+b*c]
+divide = [((a*c)+(b*d))/(c**2-d**2),((((b*c)-(a*d))/(c**2-d**2)))]
+print(summa, raznost, multi, divide)
 import time
 import semestr_task as t
 
