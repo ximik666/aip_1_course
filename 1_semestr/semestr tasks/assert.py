@@ -1,13 +1,48 @@
 list = [float(input('Введите первую действительную часть = ')),float(input('Введите первую мнимую часть = ')),float(input('Введите вторую действительную часть = ')),float(input('Введите вторую мнимую часть = '))]
-i = (-1)**0.5
 a = list[0]
 b = list[1]
 c = list[2]
 d = list[3]
-summa = [a+c, b+d]
-raznost = [a-c, b-d]
-multi = [(a*c)-(b*d), a*d+b*c]
-divide = [((a*c)+(b*d))/(c**2-d**2),((((b*c)-(a*d))/(c**2-d**2)))]
+summa_temp = [a+c, b+d]
+raznost_temp = [a-c, b-d]
+multi_temp = [(a*c)-(b*d), a*d+b*c]
+divide_temp = [((a*c)+(b*d))/(c**2-d**2),((((b*c)-(a*d))/(c**2-d**2)))]
+s1 = summa_temp[0]
+s2 = summa_temp[1]
+r1 = raznost_temp[0]
+r2 = raznost_temp[1]
+m1 = multi_temp[0]
+m2 = multi_temp[1]
+d1 = divide_temp[0]
+d2 = divide_temp[1]
+summa = [s1,s2]
+raznost = [r1,r2]
+multi = [m1,m2]
+divide = [d1,d2]
+if s2 == int(s2) and s1 == int(s1):
+    summa = [int(s1),int(s2)]
+if s2 == int(s2) and s1 != int(s1):
+    summa = [s1, int(s2)]
+if s1 == int(s1) and s2 != int(s2):
+    summa = [int(s1), s2]
+if r2 == int(r2) and r1 == int(r1):
+    raznost = [int(r1),int(r2)]
+if r2 == int(r2) and r1 != int(r1):
+    raznost = [r1, int(r2)]
+if r1 == int(r1) and r2 != int(r2):
+    raznost = [int(r1), r2]
+if m2 == int(m2) and m1 == int(m1):
+    multi = [int(m1),int(m2)]
+if m2 == int(m2) and m1 != int(m1):
+    multi = [m1, int(m2)]
+if m1 == int(m1) and m2 != int(m2):
+    multi = [int(m1), m2]
+if d2 == int(d2) and d1 == int(d1):
+    divide = [int(d1),int(d2)]
+if d2 == int(d2) and d1 != int(d1):
+    divide = [d1, int(d2)]
+if d1 == int(d1) and d2 != int(d2):
+    divide = [int(d1), d2]
 print(summa, raznost, multi, divide)
 import time
 import semestr_task as t
