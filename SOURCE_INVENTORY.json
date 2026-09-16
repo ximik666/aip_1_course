@@ -1,0 +1,377 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 66,
+    "sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 18,
+    "sha256": "8013713ce94d784ae510909e63a17f10f563813b1b49e774a32c287ef723bf33"
+  },
+  {
+    "path": "1_semestr/README.md",
+    "bytes": 2577,
+    "sha256": "73c501b00a3faa6ac54f0a1bfd12e8098edf35ff6e5bd9d49f1fa7c626f5c179"
+  },
+  {
+    "path": "1_semestr/lessons/1_lesson.md",
+    "bytes": 1156,
+    "sha256": "a8c1edc5f2a218cdc17150814decc1d80d027a5fefe416119bc44bf117ca4f43"
+  },
+  {
+    "path": "1_semestr/lessons/2_lesson.md",
+    "bytes": 761,
+    "sha256": "287e5fdde6ed6d1606f5d46942012d62711cacdfc421ade32e5565b62c547015"
+  },
+  {
+    "path": "1_semestr/lessons/3_lesson.md",
+    "bytes": 481,
+    "sha256": "fa040da180fd99ba77d7a1c5d61d0751534eb3e54fcf5426d1523bd8a229ec3d"
+  },
+  {
+    "path": "1_semestr/lessons/4_lesson.md",
+    "bytes": 290,
+    "sha256": "ddd926e253886cff329b8f6119bfa71631bdd9cb8a8d15613201ce6d79d2e9e2"
+  },
+  {
+    "path": "1_semestr/lessons/5_lesson.md",
+    "bytes": 323,
+    "sha256": "be3f845dd0cc33d31ffc04112442545b1c51f7d9a381b3a19c0adae9a1960649"
+  },
+  {
+    "path": "1_semestr/lessons/6_lesson.md",
+    "bytes": 360,
+    "sha256": "01ab06c84870d8f146972c228953bb6893c109a83191c2b47904f2d7271b7039"
+  },
+  {
+    "path": "1_semestr/lessons/7_lesson.md",
+    "bytes": 265,
+    "sha256": "bad1ee968b6b2c734b8b3497e73d4ba838aa025ad657fef11f6b6a89370ffaef"
+  },
+  {
+    "path": "1_semestr/lessons/8_lesson.md",
+    "bytes": 427,
+    "sha256": "1d04d10303241cae483a9c598bccac5f8e9b79658660ceba615463961ae82428"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_1/Meeting check-in.pdf",
+    "bytes": 255676,
+    "sha256": "654bdff43121ca46ddc34f0bfaaa7ead638d2060bb69a48f64481f2554033f58"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_1/Алгоритмизация и программирование.pdf",
+    "bytes": 671026,
+    "sha256": "881c42186c485a683ccce443984c28a1f5b4254857ab9aa81c32839a907e9d94"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_2/prev.jpg",
+    "bytes": 120221,
+    "sha256": "1bceb13371f49a046fc3fffdfbe37286731ffeda541d0d33eda1380fce93649a"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_2/Дополнительные материалы.md",
+    "bytes": 122,
+    "sha256": "1ad8a4c4cdd43d5869b42fb1fd1c10d8a36ebab140e10dd9d1034cb7118c3961"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_2/Языки_программирования_през.pdf",
+    "bytes": 618485,
+    "sha256": "8b4e7a596ee74b90720d8fc2072ff0f69168b2a9f4a976d231e90fd566dd9709"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_3/retina-aed526e2c5def3c7ba85c829e853d6b6.jpg",
+    "bytes": 46520,
+    "sha256": "7d6f0bd3ae40c5f182e09e1631473110f53276ce2cdadec52e17f062d673e39f"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_3/Основы программирования на языке Python.pdf",
+    "bytes": 671092,
+    "sha256": "506fafd072fa96884b54a8e422b1612cff732fd8130d92145dd6b2f7b726029e"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_4/monitor_96619259_orig_.jpg",
+    "bytes": 55586,
+    "sha256": "7188926596740ff56212d0f91a6d9627fe484ec52d60dbab68b0ac749d8522f9"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_4/Циклы.pdf",
+    "bytes": 922869,
+    "sha256": "1daf407c1e0ec36bc0d5a5444fd9cf8f1b3fc1c91a4560cce659de072ade2728"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_5/r_1795569_HYpFd.jpg",
+    "bytes": 62831,
+    "sha256": "b006681737db1029bc6b3a480146e64bbc51d88da6f144ebca8e76adb817569d"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_5/Строки.pdf",
+    "bytes": 876825,
+    "sha256": "3a3a87cdcf46c459ae4bf5a07bd3f17bf8508a6b47a906d3fd3d1c5923c97a8a"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_6/Списки.pdf",
+    "bytes": 685743,
+    "sha256": "ebc4570a58ba6d92ace4a51e3791afa53a64cb2ec84a40f79c65618c90224291"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_6/Функции.pdf",
+    "bytes": 445884,
+    "sha256": "0bfb15c725ea4fb44476e2761f49d54d931c041623760cda11b84827f813acf6"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_7/Работа с файлами.pdf",
+    "bytes": 698604,
+    "sha256": "c99bc1a9e7ed6eb79683398121739204e9e2803d5cc7b398d4ddd8e7c3fc6ce6"
+  },
+  {
+    "path": "1_semestr/lessons/Lesson_8/Множества в Python.pdf",
+    "bytes": 863736,
+    "sha256": "605c2aa9f490d0e09d27947ae7b6909be039a59b34e15e69eb5c02d53c711d45"
+  },
+  {
+    "path": "1_semestr/practices/1_practice/mementopython3-russian.pdf",
+    "bytes": 176999,
+    "sha256": "9796057351c60f0cebfdc45ff0dd2aa02b7bfcb418832f3fd5598d5da557e879"
+  },
+  {
+    "path": "1_semestr/practices/1_practice/test.jpg",
+    "bytes": 451800,
+    "sha256": "4e9d12c364584b1320ecdf0c66ec3793828f286185955a46fccdb7a0b2e05446"
+  },
+  {
+    "path": "1_semestr/practices/1_practice/test.png",
+    "bytes": 117381,
+    "sha256": "69e6598e24f334ef952fad78a38085abe9145f4d372af82f689a82e72330cdc5"
+  },
+  {
+    "path": "1_semestr/practices/1_practice/Ввод и вывод данных.ipynb",
+    "bytes": 7650,
+    "sha256": "bd5bdf2497fc2c417e9030c342471057acfe5ffbeb997c1bdb99fe3768003cef"
+  },
+  {
+    "path": "1_semestr/practices/1_practice/О jupyter.ipynb",
+    "bytes": 12776,
+    "sha256": "63bdcfd07424aa6fa091d080bee4b6ba3fbab693891185500cfd01d68795ab9e"
+  },
+  {
+    "path": "1_semestr/practices/1_practice/Переменные.ipynb",
+    "bytes": 31781,
+    "sha256": "f74edc2b5723054a81f6e755f04903b3d8fd26eca801538b02481338c423a146"
+  },
+  {
+    "path": "1_semestr/practices/1_practice.md",
+    "bytes": 1156,
+    "sha256": "dafbcf79af1ed099d73fe7fea1640ded6c4e0b3b81c58c0a01488c546dc5df98"
+  },
+  {
+    "path": "1_semestr/practices/2_practice/Строки.ipynb",
+    "bytes": 13314,
+    "sha256": "a0d33dd1618c26377163e9284cb0186588f02ac01504beaa45f56dcbfc55461e"
+  },
+  {
+    "path": "1_semestr/practices/2_practice/Условия.ipynb",
+    "bytes": 10695,
+    "sha256": "9625ab5faeccff5a05cfe98885ad2f4bdce08943e6dc78895cccb019679cb966"
+  },
+  {
+    "path": "1_semestr/practices/2_practice.md",
+    "bytes": 881,
+    "sha256": "619adce2915a97d4fe529c31f8a8efb0a18671fc6ff3051995ba698e45e0455a"
+  },
+  {
+    "path": "1_semestr/practices/3_practice/Практика.ipynb",
+    "bytes": 1756,
+    "sha256": "4f431c679499e07fc209d6d3aba4ab54db36b4ace086ce7e00b6d71734096878"
+  },
+  {
+    "path": "1_semestr/practices/4_practice/Практика.ipynb",
+    "bytes": 1942,
+    "sha256": "e3d072b01eb014d6221c6647709eae0121b434b37e01f6c71be947c42aabd970"
+  },
+  {
+    "path": "1_semestr/practices/5_practice/Работа с файлами.ipynb",
+    "bytes": 2326,
+    "sha256": "8691064cbba7f9774eaab3d18d3d76d074cd1707ed0adc2aff53cc19c0c55618"
+  },
+  {
+    "path": "1_semestr/practices/6_practice/practice.ipynb",
+    "bytes": 3479,
+    "sha256": "7751a79c70ff71f77ab9bc9cbf2beb883074ab7dd24811d7f6acd3b62a391857"
+  },
+  {
+    "path": "1_semestr/practices/7_practice/practice.ipynb",
+    "bytes": 4578,
+    "sha256": "3a61a9cd1c7d289a8cdc15e14369a33534655cc88a18844ac952fc7b35ff40c5"
+  },
+  {
+    "path": "1_semestr/practices/8_practice/practice.ipynb",
+    "bytes": 1520,
+    "sha256": "134dc26fd7a773cd1705006ed74ff76819a7570f830915010342ac5f1a51f03c"
+  },
+  {
+    "path": "1_semestr/practices/kr/kr.ipynb",
+    "bytes": 5199,
+    "sha256": "1dd420f4b2d8e69476ec88b7255f61e8e7c85984f7e23c237e06dc59e82e15e2"
+  },
+  {
+    "path": "1_semestr/practices/kr_2/kr_2.ipynb",
+    "bytes": 1787,
+    "sha256": "2f5ffc6265df928ee02be6c6e8661c84d548ae394fd2f856b001c5c994062b81"
+  },
+  {
+    "path": "1_semestr/semestr tasks/assert.py",
+    "bytes": 582055,
+    "sha256": "1b6e7c0dbdc8170bc58ef1876fe6328c8523171f984240ca159efeac00800524"
+  },
+  {
+    "path": "1_semestr/semestr tasks/semester1.md",
+    "bytes": 3061,
+    "sha256": "59e25a090ef15f609be66a66faae51b140dc0322b9f0a0d363d59b5acde1508d"
+  },
+  {
+    "path": "2_semestr/.DS_Store",
+    "bytes": 8196,
+    "sha256": "897732f9158f0566057ccba1dbaaf6840a23322016faf5c7d2da1b36f73658d4"
+  },
+  {
+    "path": "2_semestr/lessons/lesson_1/1 Поиск элементов в массиве.pdf",
+    "bytes": 186599,
+    "sha256": "62d053c79a8591e407202ce18214d47bd7da5c6ea4c49c011c3df5794763906c"
+  },
+  {
+    "path": "2_semestr/lessons/lesson_1/1_поиск_элементов_в_массиве.ipynb",
+    "bytes": 6970,
+    "sha256": "ec07f319c97d01adb62268fb263c2007f49c36ec440c0187529e426010b62448"
+  },
+  {
+    "path": "2_semestr/lessons/lesson_1/Дополнитлеьный материал для самостоятельного изучения.md",
+    "bytes": 102,
+    "sha256": "00191eed6c1e5a4018eac556d89e98a9ec229a9c51fd433dc6578e9915066a4e"
+  },
+  {
+    "path": "2_semestr/lessons/lesson_2/Алгоритмы сортировки.pdf",
+    "bytes": 225380,
+    "sha256": "127b84c49e605a402faf60266ece67a30d5cba06645a045a327f4b1cf2c525a2"
+  },
+  {
+    "path": "2_semestr/lessons/lesson_3/time_execute.py",
+    "bytes": 887,
+    "sha256": "ab66319ca6d6f2cdb55f9d7d80beef0e4d4f3b120c8032149c92ab6476c9b364"
+  },
+  {
+    "path": "2_semestr/lessons/lesson_3/Стеки и очереди в Python.pdf",
+    "bytes": 508055,
+    "sha256": "7d8b2a8078984f1ff855e61740087dcee8e9a287e94b7fed939ab4448a8e07c9"
+  },
+  {
+    "path": "2_semestr/lessons/lesson_4/Множества в Python.pdf",
+    "bytes": 863736,
+    "sha256": "605c2aa9f490d0e09d27947ae7b6909be039a59b34e15e69eb5c02d53c711d45"
+  },
+  {
+    "path": "2_semestr/lessons/lesson_4/Основы ООП.pdf",
+    "bytes": 376224,
+    "sha256": "1a7854e36d2110ac3fd1c249bc0289732a62b8b4f29c3c646568a98865ebd82c"
+  },
+  {
+    "path": "2_semestr/lessons/lesson_5/exception.pdf",
+    "bytes": 329027,
+    "sha256": "a5c0862fb22f75f7796b1906b7a897b488ffd19b321c5ee81648b520cba0487f"
+  },
+  {
+    "path": "2_semestr/practice/1.ipynb",
+    "bytes": 1571,
+    "sha256": "e525e5ec383a8e5aa16f11658ef8ee9781a53efb0cc064827ad7a4b040eb5636"
+  },
+  {
+    "path": "2_semestr/practice/10.ipynb",
+    "bytes": 1078,
+    "sha256": "5069699c7fc3a44873d965196ca067eff0434433d0e96d93a09ba05bbe48adc8"
+  },
+  {
+    "path": "2_semestr/practice/2.ipynb",
+    "bytes": 1380,
+    "sha256": "6384d83497b319e20de47374f22087efc5591e0350e917794772291a2efc59ae"
+  },
+  {
+    "path": "2_semestr/practice/3.ipynb",
+    "bytes": 1682,
+    "sha256": "e7b7e43f8e5c37a12af8c7f10f3741e3904fd203793be55d566b0c2e32a1dcc7"
+  },
+  {
+    "path": "2_semestr/practice/4.ipynb",
+    "bytes": 2409,
+    "sha256": "0c5066aaab7df3d1a4a492a460a77df9d6c66e33ee5e00332177cda974227e65"
+  },
+  {
+    "path": "2_semestr/practice/5.ipynb",
+    "bytes": 6829,
+    "sha256": "929efdb54998f39ba0f8e2a01b8e986c45566761daad3a94c69c42d27e0c594f"
+  },
+  {
+    "path": "2_semestr/practice/6.ipynb",
+    "bytes": 6613,
+    "sha256": "cad2fd19102569b1775f321f43470b6677c0c49dc08349fbb0e5d7c19a844c7d"
+  },
+  {
+    "path": "2_semestr/practice/7.ipynb",
+    "bytes": 5745,
+    "sha256": "d4849fbe87ac504b246b3bcf1cf8291f38eb9618f55f6817be5cdff871ba9fbd"
+  },
+  {
+    "path": "2_semestr/practice/8.ipynb",
+    "bytes": 707,
+    "sha256": "72afdea9435a6f1b4fa50a3fea4529f4b5b0f8dd09935a63dcf9ebaee9d6ef88"
+  },
+  {
+    "path": "2_semestr/practice/9.ipynb",
+    "bytes": 1421,
+    "sha256": "bddcea16b865361b23fe63289aef672a98747decee8030d9adb4e98ba8eac9b3"
+  },
+  {
+    "path": "2_semestr/practice/image/43596-036915.png",
+    "bytes": 16977,
+    "sha256": "71f7e0aa61e309e4ee08e2b8e343a13c38221ca0dd1ce64af27279e31a5b994e"
+  },
+  {
+    "path": "2_semestr/practice/image/43596-036915.webp",
+    "bytes": 2660,
+    "sha256": "14df79a4933108925ce0bb40cfa6c7d3da8735ec5ae0f7b6f0047295306b078f"
+  },
+  {
+    "path": "2_semestr/practice/image/43596-037102.webp",
+    "bytes": 866,
+    "sha256": "47c4f61d21ab98b64a23496d2c6ab63bcb9d098e8a8953d706714330b4244ea3"
+  },
+  {
+    "path": "2_semestr/practice/сравнение.pdf",
+    "bytes": 139374,
+    "sha256": "0316dfa46746f5bc24055b4e20e2bd8280415b23d420c6ea2d7537d4b18434d8"
+  },
+  {
+    "path": "2_semestr/semestr_task_2/assert.py",
+    "bytes": 186392,
+    "sha256": "bb0ee90a679fac6215fc5b7139bcee45e80f9bee06d94d20119c7ebee2778578"
+  },
+  {
+    "path": "2_semestr/Примеры КР/СР_1051.md",
+    "bytes": 5715,
+    "sha256": "834e784c89723f1f8f0f7f35bb9597150baa63b8ac6f409be0a3a93519a3df03"
+  },
+  {
+    "path": "2_semestr/Примеры КР/СР_1052.md",
+    "bytes": 4328,
+    "sha256": "340a6f068a2ed7b564bd712d514d2f6cee7de285d3e865d5de6a571b55820150"
+  },
+  {
+    "path": "2_semestr/Примеры КР/вариант 1.md",
+    "bytes": 3809,
+    "sha256": "ad6dae3dd7727a408e7355f00f27ce00b0d2d2a0a1b67f93e52b771bb9927271"
+  },
+  {
+    "path": "README.md",
+    "bytes": 8594,
+    "sha256": "ca1d039084412774c7fdf1df09fc4243b7ae4756a9231d3b160b32ada3a90cb1"
+  }
+]

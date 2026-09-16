@@ -1,87 +1,57 @@
-# Алгоритмизация и программирование (1 курс - 1 семестр)
+# Алгоритмизация и программирование Расширенный курс
 
-Дисциплина заканчивается зачетом. Для получения зачета необходимо набрать минимальное количество баллов, выполнить контрольные работы.
+Полный учебный комплект на два семестра по 16 недель. Основной язык Python. Предлагаемая нагрузка 216 академических часов за год. Исходный репозиторий сохранён без изменений.
 
-Здесь будут выкладываться ссылки на лекционный и практический материал.
+## С чего начать
 
-Также есть группа в Telegram для общения.
+1. Открыть [курс для чтения](COURSE.html): программа, лекции, практики, контрольные и семестровые задания в одном документе.
+2. Прочитать [анализ исходного курса](ANALYSIS.md) и [программу](PROGRAM.md).
+3. Для занятия открыть соответствующие конспект, практику и PPTX из таблицы ниже.
+4. Преподавателю отдельно изучить каталог teacher и [итоговые проекты](semester_works/README.md).
 
-------
+Материалы в Markdown можно редактировать обычным текстовым редактором. COURSE.html работает без интернета и пригоден для печати средствами браузера. PPTX редактируется в PowerPoint и совместимых программах. Презентации содержат по 7 опорных слайдов с заметками к занятию и используются вместе с конспектом. В комплекте 224 слайда.
 
-Дополнительный материал по лекциям
+## Состав
 
-1. [Лекция 1](./1_semestr/lessons/1_lesson.md) (08.09.2021)
-2. [Лекция 2. Языки программирования](./1_semestr/lessons/2_lesson.md) (10.09.2021)
-2. [Лекция 3. Основы языка программирования Python](./1_semestr/lessons/3_lesson.md) (17.09.2021)
-2. [Лекция 4. Циклы](./1_semestr/lessons/4_lesson.md) (29.09.2021)
-2. [Лекция 5. Строки](./1_semestr/lessons/5_lesson.md) (1.10.2021)
-2. [Лекция 6. Списки и функции](./1_semestr/lessons/6_lesson.md) (15.10.2021)
-2. [Лекция 7. Работа с файлами](./1_semestr/lessons/7_lesson.md) (29.10.2021)
-2. [Лекция 8. Работа с множествами](./1_semestr/lessons/8_lesson.md) (12.11.2021)
-------
+32 конспекта, 32 презентации, 32 практические работы с 96 заданиями, 32 исполняемых примера, 4 контрольные в двух вариантах, 2 семестровых проекта по 6 вариантов, ключи и два эталонных вычислительных модуля для преподавателя. 29 автоматических тестовых методов итоговых модулей включают дополнительные параметризованные и случайные проверки. Все 32 примера и эти тесты проверены в Python 3.12 используемой среды. Полная совместимость со старыми assert.py не заявляется.
 
-Практика
-1. [Практика 1](./1_semestr/practices/1_practice.md) (13-20.09.2021)
-2. [Практика 2](./1_semestr/practices/2_practice.md) (04-11.09.2021)
-2. [Практика 3](./1_semestr/practices/3_practice/Практика.ipynb) (11-18.09.2021)
-2. [К.р.](https://github.com/ximik666/aip_1_course/blob/main/1_semestr/practices/kr/kr.ipynb) (11-18.10.2021)
-2. [Практика 4](https://github.com/ximik666/aip_1_course/blob/main/1_semestr/practices/4_practice/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.ipynb) (18-25.10.2021)
-3. [Практика 5](https://github.com/ximik666/aip_1_course/blob/main/1_semestr/practices/5_practice) (18-25.10.2021)
-4. [Практика 6](https://github.com/ximik666/aip_1_course/blob/main/1_semestr/practices/6_practice/practice.ipynb) (15-22.11.2021)
-------
+## Навигация по занятиям
 
-Контрольная работа
+| № | Тема | Лекция | Практика | Презентация |
+|---:|---|---|---|---|
+|01|Алгоритм и постановка задачи|[Текст](lectures/01.md)|[Задания](practices/01.md)|[PPTX](presentations/01.pptx)|
+|02|Среда Python и числовые выражения|[Текст](lectures/02.md)|[Задания](practices/02.md)|[PPTX](presentations/02.pptx)|
+|03|Переменные и ввод данных|[Текст](lectures/03.md)|[Задания](practices/03.md)|[PPTX](presentations/03.pptx)|
+|04|Логика и ветвления|[Текст](lectures/04.md)|[Задания](practices/04.md)|[PPTX](presentations/04.pptx)|
+|05|Цикл for и накопление|[Текст](lectures/05.md)|[Задания](practices/05.md)|[PPTX](presentations/05.pptx)|
+|06|Цикл while и завершение|[Текст](lectures/06.md)|[Задания](practices/06.md)|[PPTX](presentations/06.pptx)|
+|07|Строки и обработка текста|[Текст](lectures/07.md)|[Задания](practices/07.md)|[PPTX](presentations/07.pptx)|
+|08|Списки и изменяемые объекты|[Текст](lectures/08.md)|[Задания](practices/08.md)|[PPTX](presentations/08.pptx)|
+|09|Функции и контракты|[Текст](lectures/09.md)|[Задания](practices/09.md)|[PPTX](presentations/09.pptx)|
+|10|Кортежи и словари|[Текст](lectures/10.md)|[Задания](practices/10.md)|[PPTX](presentations/10.pptx)|
+|11|Множества и выбор структуры данных|[Текст](lectures/11.md)|[Задания](practices/11.md)|[PPTX](presentations/11.pptx)|
+|12|Файлы CSV и JSON|[Текст](lectures/12.md)|[Задания](practices/12.md)|[PPTX](presentations/12.pptx)|
+|13|Исключения и проверка данных|[Текст](lectures/13.md)|[Задания](practices/13.md)|[PPTX](presentations/13.pptx)|
+|14|Тесты и отладка|[Текст](lectures/14.md)|[Задания](practices/14.md)|[PPTX](presentations/14.pptx)|
+|15|Модули и сборка приложения|[Текст](lectures/15.md)|[Задания](practices/15.md)|[PPTX](presentations/15.pptx)|
+|16|Комплексные числа и защита первого проекта|[Текст](lectures/16.md)|[Задания](practices/16.md)|[PPTX](presentations/16.pptx)|
+|17|Сложность алгоритмов|[Текст](lectures/17.md)|[Задания](practices/17.md)|[PPTX](presentations/17.pptx)|
+|18|Линейный и бинарный поиск|[Текст](lectures/18.md)|[Задания](practices/18.md)|[PPTX](presentations/18.pptx)|
+|19|Сортировки выбором и вставками|[Текст](lectures/19.md)|[Задания](practices/19.md)|[PPTX](presentations/19.pptx)|
+|20|Слияние и сортировка подсчётом|[Текст](lectures/20.md)|[Задания](practices/20.md)|[PPTX](presentations/20.pptx)|
+|21|Измерение производительности|[Текст](lectures/21.md)|[Задания](practices/21.md)|[PPTX](presentations/21.pptx)|
+|22|Стек и проверка скобок|[Текст](lectures/22.md)|[Задания](practices/22.md)|[PPTX](presentations/22.pptx)|
+|23|Очередь и моделирование обслуживания|[Текст](lectures/23.md)|[Задания](practices/23.md)|[PPTX](presentations/23.pptx)|
+|24|Рекурсия и стек вызовов|[Текст](lectures/24.md)|[Задания](practices/24.md)|[PPTX](presentations/24.pptx)|
+|25|Матрицы и операции над таблицами|[Текст](lectures/25.md)|[Задания](practices/25.md)|[PPTX](presentations/25.pptx)|
+|26|Метод Гаусса и ранг|[Текст](lectures/26.md)|[Задания](practices/26.md)|[PPTX](presentations/26.pptx)|
+|27|Графы и поиск в ширину|[Текст](lectures/27.md)|[Задания](practices/27.md)|[PPTX](presentations/27.pptx)|
+|28|Классы и инварианты объектов|[Текст](lectures/28.md)|[Задания](practices/28.md)|[PPTX](presentations/28.pptx)|
+|29|Итераторы и генераторы|[Текст](lectures/29.md)|[Задания](practices/29.md)|[PPTX](presentations/29.pptx)|
+|30|Динамическое программирование|[Текст](lectures/30.md)|[Задания](practices/30.md)|[PPTX](presentations/30.pptx)|
+|31|Интеграционные тесты и качество проекта|[Текст](lectures/31.md)|[Задания](practices/31.md)|[PPTX](presentations/31.pptx)|
+|32|Проектирование и защита второго проекта|[Текст](lectures/32.md)|[Задания](practices/32.md)|[PPTX](presentations/32.pptx)|
 
-1. [Контрольная работа 1](https://github.com/ximik666/aip_1_course/blob/main/1_semestr/practices/kr/kr.ipynb)
-2. [Контрольная работа 2](https://github.com/ximik666/aip_1_course/blob/main/1_semestr/practices/kr_2/kr_2.ipynb)
+## Проверки и выдача
 
-Семестровая задача
-
-1. [Семестровая задача](https://github.com/ximik666/aip_1_course/blob/main/1_semestr/semestr%20tasks/semester1.md)
-# 2 семестр
-
-__Для получения зачета необходимо выполнить:__
--  необходимо выполнить все практические работы, которые были даны на практике.
-> __`Срок сдачи  - за 2 недели до окончания курса`__
--  выполнить и сдать итоговую практическую работу.
-> __`Срок сдачи  - за 2 недели до окончания курса`__
-
-### Лекциионный материал:
-1. [Лекция 1 -  Поиск элементов в массиве](https://github.com/ximik666/aip_1_course/tree/main/2_semestr/lessons/lesson_1)
-2. [Лекция 2 - Алгоритмы сортировки](https://github.com/ximik666/aip_1_course/tree/main/2_semestr/lessons/lesson_2)
-3. [Лекция 3 - Стеки и очереди в Python](https://github.com/ximik666/aip_1_course/tree/main/2_semestr/lessons/lesson_3)
-3. [Лекция 4 - Основы функционального программирования](https://ru.wikibooks.org/wiki/Python/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_Python)
-### Практические работы на занятиях
-1. [Практика 1](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/1.ipynb)
-2. [Практика 2](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/2.ipynb)
-3. [Практика 3](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/3.ipynb)
-4. [Практика 4](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/4.ipynb)
-5. [Практика 5](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/5.ipynb)
-6. [Практика 6](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/6.ipynb)
-7. [Практика 6](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/practice/7.ipynb)
-
-### `Итоговая семестровая задача`
-#### Требования к семестровой задачи
-- > задачу необходимо выполнить до 15 мая
-- >решение задач не должно повторяться
-- >не использовать внешние библиотеки(numpy и т.д.)
-- >перед сдачей работы необходимо проверить программу на все assert ([assert.py](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/semestr_task_2/assert.py) лежит в папке с semestr_tasks_2, инструкция дана ниже)
-- >на защите программы необходимо обьяснить работу программы.
-- >файл с программой должен называться `semestr_task_2`
-
-Необходимо на языке программирования Python реализовать 8 функции для работы над матрицами
-- +`summa[mat1:list, mat2:list]->list` - суммирование 2 матриц и возвращения значения, в случае ошибки возращать `'error'`
-- +`mul[mat1:list, mat2:list]->list` - умножнение 2 матриц и возвращения значения, в случае ошибки возращать `'error'`
-- +`diff[mat1:list, mat2:list]->list` - "деление" 2 матриц и возвращения значения, в случае ошибки возращать `'error'`, 2 знака после запятой
-- +`det[mat1:list]->float` - определитель матрицы и возвращения значения, в случае ошибки возращать `'error'`
-- +`transp[mat1:list]->list` - транспонирование матрицы и возвращения значения, в случае ошибки возращать `'error'`
-- +`rank[mat1:list]->int` - ранг матрицы и возвращения значения, в случае ошибки возращать `'error'`
-- +`L1[mat1:list]->int` - максимальная сумма модулей элементов в столбце и возвращения значения, в случае ошибки возращать `'error'`
-- +`L0[mat1:list]->int` - подсчет ненулевых элементов в матрице и возвращения значения, в случае ошибки возращать `'error'`
-
-#### Список assert, которые необходимо проверить находится в файле ([assert.py](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/semestr_task_2/assert.py).
-- [x] **для запуска проверки необходимо переименовать файл с вашей программой в semestr_task_2.py**
-- [x] **для проверки запускаем файл ([assert.py](https://github.com/ximik666/aip_1_course/blob/main/2_semestr/semestr_task_2/assert.py)**
-- [x] **если вы не видите строку 'ошибка проверки', значит программу можно показывать преподавателю. Иначе - программу необходимо переделать.**
-
-Для каждой функции предусмотреть необходимые проверки (деление на 0, совпадение и соответвстие размерностей матрицы и т.д.), в случае несоответствия возращать `'error'`. Следует учесть, что на вход могут подаваться и неверные данные, например, знаки препинания.
+Запуск из корня комплекта: `python3 -m unittest discover -s tests -v`. Это проверка преподавательских эталонов. Для студенческих модулей используйте отдельные публичные тесты в semester_works. В студенческом архиве нет teacher и каталога tests с импортами эталонов. Исследовательские задания являются углублением, а не дополнительным условием базового зачёта.
